@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+python-docx
+markdown
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+pyyaml
+numpy
